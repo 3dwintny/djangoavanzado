@@ -1,2 +1,4 @@
-# djangoavanzado
-Curso de django Avanzado
+Comparte Ride
+=============
+
+Group-bounded, invite-only, carpooling platform
